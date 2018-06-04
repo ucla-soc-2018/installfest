@@ -6,15 +6,20 @@ All the programs we need to install
 #### In the terminal  
 | Program | MAC | Linux | Windows |  
 | --- | --- | --- | ---- |  
-|  [Package Manager]() | x | [brew](https://docs.brew.sh/Installation) - | [apt-get]() |  
-|  [npm]() | x | [brew](https://docs.brew.sh/Installation) - | [apt-get]() |  
-|  [Python]() |  x | `sudo apt install python3` | x |  
-| [Heroku]() | x | `brew install heroku/brew/heroku` | `curl https://cli-assets.heroku.com/install-ubuntu.sh` | [download](https://devcenter.heroku.com/articles/heroku-cli) |
-| [Git]() | git --version | `sudo apt install git-all` | x |
+|  [Package Manager](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#package-manager) | x | [brew](https://docs.brew.sh/Installation) - | [apt-get]() |  
+|  [npm](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#npm) | x | [brew](https://docs.brew.sh/Installation) - | [apt-get]() |  
+|  [Python 3](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#python-3) |  x | `sudo apt install python3` | x |  
+| [Heroku](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#heroku) | x | `brew install heroku/brew/heroku` | `curl https://cli-assets.heroku.com/install-ubuntu.sh` | [download](https://devcenter.heroku.com/articles/heroku-cli) |
+| [Git](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#git) | git --version | `sudo apt install git-all` | x | [Text Editor](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#text-editor) | x | x | x |
+| [](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#text-editor) | x | x | x |
+| [](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#) | x | x | x |
+| [](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#) | x | x | x |
+| [](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#) | x | x | x |
+| [](https://github.com/ucla-soc-2018/installfest/blob/master/README.md#) | x | x | x |
 
 ---
 
-## Package Managers
+## Package Manager
 ### brew - Mac
 $ `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`  
 https://brew.sh/
@@ -44,7 +49,6 @@ $ `npm -v`
 
 ---
 
-## Languages
 ### Python 3
 
 + Mac
@@ -91,7 +95,7 @@ What is your username and password?
 ---
 
 ## Deploying
-### Heroku Toolbelt CLI
+### Heroku
 
 ---
 
